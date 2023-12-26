@@ -1,7 +1,6 @@
 {
-  "name": "vue-img-viewer",
-  "private": true,
-  "version": "0.1.0",
+  "name": "g-vue-img-viewer",
+  "version": "0.1.1",
   "type": "module",
   "main": "dist/img-viewer.js",
   "module": "dist/img-viewer.cjs",
@@ -17,6 +16,7 @@
   "files": [
     "dist"
   ],
+  "types": "dist/packages/index.d.ts",
   "homepage": "https://github.com/gws0920/vue-img-viewer#readme",
   "repository": {
     "type": "git",

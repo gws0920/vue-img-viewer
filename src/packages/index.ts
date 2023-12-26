@@ -1,5 +1,5 @@
-import VImgViewer from './ImgViewer/index.vue'
+import { ImgViewer } from './ImgViewer/index'
 
 export default {
-  VImgViewer
+  ImgViewer
 }

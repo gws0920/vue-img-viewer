@@ -55,7 +55,8 @@ export default defineConfig(({ mode }) => {
         ]
       }),
       dts({
-        entryRoot: resolve(__dirname, 'src/packages/index.ts')
+        // entryRoot: 'src/packages/index.ts',
+        outDir: 'dist'
       })
     ],
     resolve: {

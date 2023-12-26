@@ -1,4 +1,5 @@
 <script lang="ts" setup>
+import { Roi } from './index.d'
 interface Props {
   src: string
   zoomRange?: number[]
