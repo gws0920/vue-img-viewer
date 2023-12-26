@@ -17,6 +17,11 @@
   "files": [
     "dist"
   ],
+  "homepage": "https://github.com/gws0920/vue-img-viewer#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gws0920/vue-img-viewer.git"
+  },
   "lint-staged": {
     "*.{js,vue,ts}": [
       "eslint --cache --fix"
